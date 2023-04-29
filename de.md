@@ -32,8 +32,8 @@ NO
 **Dữ liệu vào**: nhập từ bàn phím hai số nguyên $a$ và $b$ $(0 < a,b \le 65000)$.
 
 **Dữ liệu ra**: In ra màn hình gồm 2 dòng:
-- **dòng 1**: in ra bội chung nhỏ nhất của hai số $a, b$.
-- **dòng 2**: rút gọn $\frac{a}{b}$ thành **phân số tối giản** (ghi dưới dạng $a/b$).
+- **Dòng 1**: in ra bội chung nhỏ nhất của hai số $a, b$.
+- **Dòng 2**: rút gọn $\frac{a}{b}$ thành **phân số tối giản** (ghi dưới dạng $a/b$).
 
 ## Sample Input 1
 ```
@@ -62,13 +62,13 @@ NO
 Túm cái quần lại, cho mảng *h* gồm *n* phần tử. Nhiệm vụ của bạn là sắp xếp mảng *h* theo thứ tự giảm dần. Sau đó chèn phần tử x vào mảng sao cho mảng vẫn đảm bảo giảm dần (lưu ý không được sắp xếp lại mảng!!!).
 
 **Dữ liệu vào**: gồm $(n+2)$ dòng:
-- dòng đầu là số tự nhiên $n$ $(0 < n \le 100)$.
-- n dòng tiếp theo: mỗi dòng là giá trị $h_i$ $(0 < h_i < 10^3)$(dữ liệu đảm bảo không có giá trị nào bị trùng).
-- dòng cuối: số tự nhiên $x$ $(0 < x < 10^3)$. là số cần chèn vào mảng.
+- **Dòng đầu**: số tự nhiên $n$ $(0 < n \le 100)$.
+- **n dòng tiếp theo**: mỗi dòng là giá trị $h_i$ $(0 < h_i < 10^3)$(dữ liệu đảm bảo không có giá trị nào bị trùng).
+- **Dòng cuối**: số tự nhiên $x$ $(0 < x < 10^3)$. là số cần chèn vào mảng.
 
 **Dữ liệu ra**: Gồm 2 dòng:
-- Dòng 1: Mảng $h$ sau khi sắp xếp tăng dần (chưa chèn phần tử $x$).
-- Dòng 2: mảng $h$ sau khi chèn phần tử $x$.
+- **Dòng 1**: Mảng $h$ sau khi sắp xếp tăng dần (chưa chèn phần tử $x$).
+- **Dòng 2**: mảng $h$ sau khi chèn phần tử $x$.
 
 # Sample input
 ```
