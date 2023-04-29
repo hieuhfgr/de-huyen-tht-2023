@@ -80,7 +80,7 @@ Túm cái quần lại, cho mảng *h* gồm *n* phần tử. Nhiệm vụ của
 - **Dòng 2**: n số a[i] (1 <= i <= n) (0 < a[i] <= 3200).
 
 **Dữ liệu ra**: gòm 2 dòng
-- **Dòng 1**: số có tổng chữ số lớn nhất trong dãy số.
+- **Dòng 1**: số có tổng chữ số lớn nhất trong dãy số (nếu có nhiều số có tổng chữ số bằng nhau thì in ra số đầu tiên).
 - **Dòng 2**: dãy số sau khi đảo ngược từng số trong mảng.
 ```
 >>> 3
