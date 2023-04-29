@@ -1,4 +1,4 @@
-**ĐỀ THI TIN HỌC TRẺ 2023 CỦA MỘT HUYỆN NÀO ĐÓ**
+# ĐỀ THI TIN HỌC TRẺ 2023 CỦA MỘT HUYỆN NÀO ĐÓ :3
 
 ---
 **Bài 1**: Định nghĩ dãy số $Fibonacci$ là dãy số với hai số đầu tiên là $1,1$. Các số tiếp theo sẽ là tổng của hai số liền kề bên trái nó. 
@@ -8,21 +8,21 @@ Hôm nay trên đường đi học về, Tí được crush câu hỏi này thì
 **Dữ liệu vào**: nhập từ bàn phím số tự nhiên $n$.
 
 **Dữ liệu ra**: in ra màn hình `YES` nếu $n$ là số Fibonacci, ngược lại in ra `NO`.
-## Sample Input 1
+### Sample Input 1
 ```
 8
 ```
 
-## Sample Output 1
+### Sample Output 1
 ```
 YES
 ```
-## Sample Input 2
+### Sample Input 2
 ```
 9
 ```
 
-## Sample Output 2
+### Sample Output 2
 ```
 NO
 ```
@@ -35,22 +35,22 @@ NO
 - **Dòng 1**: in ra bội chung nhỏ nhất của hai số $a, b$.
 - **Dòng 2**: rút gọn $\frac{a}{b}$ thành **phân số tối giản** (ghi dưới dạng $a/b$).
 
-## Sample Input 1
+### Sample Input 1
 ```
 3 6 
 ```
 
-## Sample Output 1
+### Sample Output 1
 ```
 6
 1/2
 ```
-## Sample Input 2
+### Sample Input 2
 ```
 9 8
 ```
 
-## Sample Output 2
+### Sample Output 2
 ```
 72
 9/8
@@ -70,7 +70,7 @@ Túm cái quần lại, cho mảng *h* gồm *n* phần tử. Nhiệm vụ của
 - **Dòng 1**: Mảng $h$ sau khi sắp xếp tăng dần (chưa chèn phần tử $x$).
 - **Dòng 2**: mảng $h$ sau khi chèn phần tử $x$.
 
-# Sample input
+### Sample input
 ```
 3
 2
@@ -78,7 +78,7 @@ Túm cái quần lại, cho mảng *h* gồm *n* phần tử. Nhiệm vụ của
 1
 4
 ```
-# Sample output
+### Sample output
 ```
 3 2 1
 4 3 2 1
@@ -94,12 +94,12 @@ Túm cái quần lại, cho mảng *h* gồm *n* phần tử. Nhiệm vụ của
 - **Dòng 1**: số có tổng chữ số lớn nhất trong dãy số.
 - **Dòng 2**: dãy số sau khi đảo ngược từng số trong mảng.
 
-# Sample input 1
+### Sample input 1
 ```
 3
 54 67 132
 ```
-# Sample output 1
+### Sample output 1
 ```
 67
 45 76 231
