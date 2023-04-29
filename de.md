@@ -1,7 +1,7 @@
 **ĐỀ THI TIN HỌC TRẺ 2023 CỦA MỘT HUYỆN NÀO ĐÓ**
 
 ---
-**Bài 1**: Định nghĩ số $Fibonacci$ là dãy số với hai số đầu tiên là $1,1$. Các số tiếp theo sẽ là tổng của hai số liền kề nó. 
+**Bài 1**: Định nghĩ dãy số $Fibonacci$ là dãy số với hai số đầu tiên là $1,1$. Các số tiếp theo sẽ là tổng của hai số liền kề bên trái nó. 
 Ví dụ dãy Fibonacci: $1,1,2,3,5,8,13,21,...$
 Hôm nay trên đường đi học về, Tí được crush câu hỏi này thì crush sẽ chấp nhận là ny của cậu. Câu hỏi của crush rằng cho một số tự nhiên $n$ $(0 < n \le 100)$, Hãy kiểm tra xem số đó có phải là số Fibonacci hay không.
 
