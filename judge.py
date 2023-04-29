@@ -42,7 +42,7 @@ for fileinp in fileinps:
         ans = f.read()
 
     out = get_output(filecode, language, inp)
-    if (out == ans):
+    if (out.strip() == ans.strip()):
         print(f"#{total+1}: chấp nhận.")
         cnt += 1
     else:
