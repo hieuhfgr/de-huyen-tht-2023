@@ -1,6 +1,4 @@
 # ĐỀ THI TIN HỌC TRẺ 2023 CỦA MỘT HUYỆN NÀO ĐÓ :3
-
----
 **Bài 1**: Định nghĩ dãy số $Fibonacci$ là dãy số với hai số đầu tiên là $1,1$. Các số tiếp theo sẽ là tổng của hai số liền kề bên trái nó. 
 Ví dụ dãy Fibonacci: $1,1,2,3,5,8,13,21,...$
 Hôm nay trên đường đi học về, Tí được crush câu hỏi này thì crush sẽ chấp nhận là ny của cậu. Câu hỏi của crush rằng cho một số tự nhiên $n$ $(0 < n \le 100)$, Hãy kiểm tra xem số đó có phải là số Fibonacci hay không.
@@ -63,7 +61,7 @@ Túm cái quần lại, cho mảng *h* gồm *n* phần tử. Nhiệm vụ của
 
 **Dữ liệu vào**: gồm $(n+2)$ dòng:
 - **Dòng đầu**: số tự nhiên $n$ $(0 < n \le 100)$.
-- **n dòng tiếp theo**: mỗi dòng là giá trị $h_i$ $(0 < h_i < 10^3)$(dữ liệu đảm bảo không có giá trị nào bị trùng).
+- **n dòng tiếp theo**: mỗi dòng là giá trị $h_i$ $(0 < h_i < 10^3)$ (dữ liệu đảm bảo không có giá trị nào bị trùng).
 - **Dòng cuối**: số tự nhiên $x$ $(0 < x < 10^3)$. là số cần chèn vào mảng.
 
 **Dữ liệu ra**: Gồm 2 dòng:
@@ -91,7 +89,7 @@ Túm cái quần lại, cho mảng *h* gồm *n* phần tử. Nhiệm vụ của
 - **Dòng 2**: n số $a_i$ $(1 \le i \le n)$ $(0 < a_i \le 3200)$.
 
 **Dữ liệu ra**: gòm 2 dòng:
-- **Dòng 1**: số có tổng chữ số lớn nhất trong dãy số.
+- **Dòng 1**: số có tổng chữ số lớn nhất trong dãy số (nếu có nhiều số có tổng chữ số bằng nhau thì in ra số đầu tiên).
 - **Dòng 2**: dãy số sau khi đảo ngược từng số trong mảng.
 
 ### Sample input 1
